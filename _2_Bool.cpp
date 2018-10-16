@@ -15,6 +15,7 @@ int main(int nNumberofArgs, char* pszArgs[])
 	int nArg1;
 		cout << "Input value 1:";
 		cin >> nArg1;
+		//taking input from user
 	int nArg2;
 		cout << "Input value 2:";
 		cin >> nArg2;
